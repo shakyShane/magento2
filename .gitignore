@@ -1,0 +1,8 @@
+node_modules
+.idea
+/src/vendor
+/src/dev
+/src/var
+/src/pub/media/
+/src/update
+/src/pub/static/**
